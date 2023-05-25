@@ -1,0 +1,21 @@
+{
+    "code": 200,
+    "paramlist": [
+        {
+            "paramlistitem": [
+                {
+                    "paramtype": "Median",
+                    "numreplicates": 1,
+                    "displayunits": "%",
+                    "defaultvalue": "",
+                    "paramlistid": "BTEC_10175_PL",
+                    "paramid": "Compression Set",
+                    "usersequence": 1,
+                    "datatypes": "N",
+                    "mandatoryflag": "N"
+                }
+            ]
+        }
+    ],
+    "status": "OK"
+}

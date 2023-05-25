@@ -1,0 +1,41 @@
+{
+  "code": 200,
+  "paramlist": [
+    {
+      "paramlistitem": [
+        {
+          "paramtype": "Median",
+          "numreplicates": 1,
+          "displayunits": "%",
+          "defaultvalue": "",
+          "paramlistid": "BTEC_10175_PL",
+          "paramid": "Compression Set",
+          "datatypes": "N",
+          "mandatoryflag": "N",
+          "value": "123",
+          "enteredunits": "",
+          "replicateid": 1,
+          "replaceunits": ""
+        }
+      ]
+    }
+  ],
+  "status": "OK",
+  "requestid": "R2207-008255-028",
+  "sampleid": "40002",
+  "requestitemid": "R2304-011182-026",
+  "activity": "BTEC_10057",
+  "diamsrisk": null,
+  "instrumentid": "ACD_00004",
+  "comments": "",
+  "restfiles": [
+    {
+      "name": "Result.xml",
+      "comments": "Data File"
+    },
+    {
+      "name": "Result.Mapping.txt",
+      "comments": "Mapping File"
+    }
+  ]
+}

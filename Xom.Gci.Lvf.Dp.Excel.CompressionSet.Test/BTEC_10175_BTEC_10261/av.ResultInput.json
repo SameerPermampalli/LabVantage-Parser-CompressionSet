@@ -1,0 +1,23 @@
+{
+  "output": {
+    "keyid2": "(null);(null);(null);(null);(null);(null);(null);(null);(null)",
+    "attributetitle": "Micrometer ID ( - );Specimen Type ( - );Temperature(s) of Interest ( °C );Sample Prep Mode ( - );Start Date ( - );End Date ( - );Test Duration ( h );Compression ( % );Lubricant ( - )",
+    "keyid3": "(null);(null);(null);(null);(null);(null);(null);(null);(null)",
+    "editorstyleid": ";;;;;;;;",
+    "keyid1": "628AF961-3EEA-4BCA-9892-C19EAE5176B6;628AF961-3EEA-4BCA-9892-C19EAE5176B6;628AF961-3EEA-4BCA-9892-C19EAE5176B6;628AF961-3EEA-4BCA-9892-C19EAE5176B6;628AF961-3EEA-4BCA-9892-C19EAE5176B6;628AF961-3EEA-4BCA-9892-C19EAE5176B6;628AF961-3EEA-4BCA-9892-C19EAE5176B6;628AF961-3EEA-4BCA-9892-C19EAE5176B6;628AF961-3EEA-4BCA-9892-C19EAE5176B6",
+    "sample": "S2002-000000229-006;S2002-000000229-006;S2002-000000229-006;S2002-000000229-006;S2002-000000229-006;S2002-000000229-006;S2002-000000229-006;S2002-000000229-006;S2002-000000229-006",
+    "updateableflag": "Y;Y;Y;Y;Y;Y;Y;Y;Y",
+    "attributeid": "LV_Requ_0005454;LV_Requ_0005455;LV_Requ_0005473;LV_Requ_0005498;LV_Requ_0005523;LV_Requ_0005552;LV_Requ_0005631;LV_Requ_0005632;LV_Requ_0005633",
+    "datatype": "S;S;S;S;S;S;S;N;S",
+    "hiddenflag": "N;N;N;N;N;N;N;N;N",
+    "attributeinstance": "1;1;1;1;1;1;1;1;1",
+    "editreftypeid": ";;;;;;;;",
+    "editsdcid": ";;;;;;;;",
+    "attributesdcid": "SDIWorkItem;SDIWorkItem;SDIWorkItem;SDIWorkItem;SDIWorkItem;SDIWorkItem;SDIWorkItem;SDIWorkItem;SDIWorkItem",
+    "value": ";Type 1;;;;;;;",
+    "mandatoryflag": "N;N;N;N;N;N;N;N;N"
+  },
+  "code": 200,
+  "message": "Action GetRequestAttributes executed successfully",
+  "status": "OK"
+}

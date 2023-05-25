@@ -1,0 +1,9 @@
+﻿FieldName=Compression Set  | FieldType=Median | Alias=CompressionSet | Sheet=Results | Type=HKeyValue
+FieldName=LV_Requ_0005454 | Alias=Micrometer | Sheet=Results | Type=HKeyValue 
+FieldName=LV_Requ_0005455 | Alias=Specimen | Sheet=Results | Type=HKeyValue
+FieldName=LV_Requ_0005473 | Alias=Temp: | Sheet=Results | Type=HKeyValue
+FieldName=LV_Requ_0005523 | Alias=Date IN: | Sheet=Results | Type=HKeyValue
+FieldName=LV_Requ_0005552 | Alias=Date Out: | Sheet=Results | Type=HKeyValue
+FieldName=LV_Requ_0005631 | Alias=Time: | Sheet=Results | Type=HKeyValue
+FieldName=LV_Requ_0005632 | Alias=Percent: | Sheet=Results | Type=HKeyValue
+FieldName=LV_Requ_0005633 | Alias=Lubrication: | Sheet=Results | Type=HKeyValue

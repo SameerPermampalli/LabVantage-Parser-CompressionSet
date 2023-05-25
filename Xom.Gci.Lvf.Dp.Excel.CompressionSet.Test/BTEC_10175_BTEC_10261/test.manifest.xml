@@ -1,0 +1,28 @@
+<data>
+  <systemid>CTBTVMINF06</systemid>
+  <userid>Sapera5</userid>
+  <loggedinid>CHEMTECH\pbalakr</loggedinid>
+  <universaldatetime>Monday, July 8, 2019 6:56:16 AM</universaldatetime>
+  <activity>BTEC_10057</activity>
+  <activitypath>BTEC_00259</activitypath>
+  <requestid>R2207-008255-028</requestid>
+  <requestitemid>R2304-011182-026</requestitemid>
+  <sampleid>40002</sampleid>
+  <softwarename>Xom.Gci.Lvf.Ifaa</softwarename>
+  <softwareversion>1.0.1.0</softwareversion>
+  <diamsrisk>
+  </diamsrisk>
+  <instrumentid>ACD_00004</instrumentid>
+  <comments>
+  </comments>
+  <resultfiles>
+    <resultfile>
+      <name>Result.xml</name>
+      <comments>Data File</comments>
+    </resultfile>
+    <resultfile>
+      <name>Result.Mapping.txt</name>
+      <comments>Mapping File</comments>
+    </resultfile>
+  </resultfiles>
+</data>
